@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pdf-tools-pro.vercel.app/sitemap.xml
